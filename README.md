@@ -53,10 +53,11 @@ Right-click → **Run as Administrator**.
 * Recreates required folders
 
 ---
-**one single .BAT tool**
+# one single .BAT tool (AllInOne_Cleaner.bat)
+---
 that builds and runs an embedded PowerShell engine.
 It includes:
-
+---
 * 🔥 **Deep Cleaner** (very aggressive optional; dry-run by default)
 * 🧹 **Registry Cleaner** (safe defaults + backup/export before any change)
 * 🚀 **Performance Booster** (toggle common non-critical bloat services — prompt & explain)
